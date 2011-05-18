@@ -2,6 +2,10 @@
 
 Per-release changes to Geocoder.
 
+== 1.0.1 (2011 May ??)
+
+* Add option to not rescue from certain exceptions (thanks github.com/ahmedrb).
+
 == 1.0.0 (2011 May 9)
 
 * Add command line interface.
